@@ -37,6 +37,7 @@ The project combines:
 
 ## Project Structure
 
+```text
 sales-analytics-project
 
 ├── data
@@ -59,7 +60,7 @@ sales-analytics-project
 │   └── sales_trend.png
 
 └── README.md
-
+```
 
 ---
 
